@@ -4,3 +4,4 @@ joblib
 Pillow
 streamlit-drawable-canvas
 scikit-learn
+tensorflow
