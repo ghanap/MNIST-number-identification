@@ -1,6 +1,6 @@
 # MNIST Digit Identification
 
-[Live Demo](https://mnist-number-identification.streamlit.app/) | [Repository](https://github.com/ghanap/MNIST-number-identification)
+[Streamlit Cloud](https://mnist-number-identification.streamlit.app/) | [Repository](https://github.com/ghanap/MNIST-number-identification)
 
 ## Overview
 This project is a web-based application designed to classify handwritten digits (0-9) using a Convolutional Neural Network (CNN). The model is trained on the MNIST dataset, a benchmark in the field of computer vision. The application provides an intuitive interface for users to upload images or draw digits and receive real-time classification results.
