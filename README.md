@@ -41,13 +41,3 @@ The underlying model follows a sequential CNN structure:
 
 The repository is organized as follows to ensure modularity and ease of deployment:
 
-```text
-MNIST-number-identification/
-├── app.py                # Main entry point for the Streamlit web application
-├── models/               # Contains serialized model files (.h5, .keras, or .pkl)
-├── notebooks/            # Jupyter notebooks for data exploration and model training
-├── src/                  # (Optional) Source scripts for data preprocessing and utility functions
-├── requirements.txt      # Comprehensive list of Python dependencies
-└── README.md             # Project documentation and setup guide
-git clone [https://github.com/ghanap/MNIST-number-identification.git](https://github.com/ghanap/MNIST-number-identification.git)
-cd MNIST-number-identification
